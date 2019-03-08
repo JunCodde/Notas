@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726878647773",
+    "firebase_url": "https://notes-afe44.firebaseio.com",
+    "project_id": "notes-afe44",
+    "storage_bucket": "notes-afe44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726878647773:android:11ed31f94c607727",
+        "android_client_info": {
+          "package_name": "com.juncodde.Notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726878647773-vj2htlosi555nuaebmrjhpi65s0ldf5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juncodde.Notes",
+            "certificate_hash": "6b4858c5958e5e64839ef1a63b7b24ddf388547a"
+          }
+        },
+        {
+          "client_id": "726878647773-bts8vh8kot0h4jl6pbouto69u5d9476b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbbIfUnlj_5wJgPPqhF7Vs5ZZX3nm5jA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726878647773-bts8vh8kot0h4jl6pbouto69u5d9476b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
